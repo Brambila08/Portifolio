@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  display: flex;
+  justify-content: center;
+}
+
+
+#center {
+display: flex;
+align-items: center;
+justify-content: center;
+ 
+}
+body {
+  background-color: black !important;
+  text-align: right;
+}
+
+#esco {
+  /* background-color: white; */
+  text-align: center;
+  color: rgb(246, 246, 246);
+}
+#esco2 {
+  text-align: center;
+  color: aliceblue;
+}
+
+#idi2 {
+  text-align: center;
+  color: aliceblue;
+}
+#barra {
+  text-align: right;
+  background-color: black;
+  text-decoration: none;
+  color: aliceblue;
+}
+#RB {
+  background-color: black;
+  color: aliceblue;
+  text-align: left;
+}
+#img {
+  width: 400px;
+  height: 400px;
+  left: 550px;
+  top: 500px;
+  display: flex;
+}
+#cot {
+  text-align: center;
+  color: white;
+}
+#habili {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+#habili2 {
+  text-align: center;
+  color: aliceblue;
+}
+#exper {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+#exper2 {
+  text-align: center;
+  color: aliceblue;
+}
+#obj {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+#obj2 {
+  text-align: center;
+  color: aliceblue;
+}
+#footer {
+  background-color: #2c2c2c;
+  height: 20vh;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-img {
+  margin-bottom: 1rem;
+}
+.footer-img img {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 1rem;
+}
+.color {
+  color: rgba(255, 255, 255, 0.411);
+}
